@@ -1,7 +1,7 @@
 # FoodTracker
 
 App built following Apple's "Start Developing iOS Apps" tutorial 
-Maintains a list of menu items with the ability to edit each one 
+Maintains a list of menu items with the ability to edit each one. Menu item includes a name, a ranking and an Image
 
 # What I learned 
 
